@@ -1,0 +1,20 @@
+E:\Lập trình mạng\Baitaptuan2\Calculator\bin\Debug\Calculator.exe.config
+E:\Lập trình mạng\Baitaptuan2\Calculator\bin\Debug\Calculator.exe
+E:\Lập trình mạng\Baitaptuan2\Calculator\bin\Debug\Calculator.pdb
+E:\Lập trình mạng\Baitaptuan2\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Lập trình mạng\Baitaptuan2\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Lập trình mạng\Baitaptuan2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Lập trình mạng\Baitaptuan2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Lập trình mạng\Baitaptuan2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\Baitaptuan2\Calculator\obj\Debug\Calculator.exe
+E:\Lập trình mạng\Baitaptuan2\Calculator\obj\Debug\Calculator.pdb
+D:\DoHongNgan_23520994\Calculator\bin\Debug\Calculator.exe.config
+D:\DoHongNgan_23520994\Calculator\bin\Debug\Calculator.exe
+D:\DoHongNgan_23520994\Calculator\bin\Debug\Calculator.pdb
+D:\DoHongNgan_23520994\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\DoHongNgan_23520994\Calculator\obj\Debug\Calculator.Form1.resources
+D:\DoHongNgan_23520994\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\DoHongNgan_23520994\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\DoHongNgan_23520994\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\DoHongNgan_23520994\Calculator\obj\Debug\Calculator.exe
+D:\DoHongNgan_23520994\Calculator\obj\Debug\Calculator.pdb

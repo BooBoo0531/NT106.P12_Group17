@@ -1,0 +1,10 @@
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\bin\Debug\Picture Viewer.exe
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\bin\Debug\Picture Viewer.pdb
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\obj\Debug\Picture Viewer.csproj.AssemblyReference.cache
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\obj\Debug\Picture Viewer.exe
+E:\Lập trình mạng\Baitaptuan2\Picture Viewer\obj\Debug\Picture Viewer.pdb
