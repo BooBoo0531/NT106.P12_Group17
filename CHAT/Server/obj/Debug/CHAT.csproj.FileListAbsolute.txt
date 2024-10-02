@@ -1,0 +1,10 @@
+E:\Lập trình mạng\CHAT\CHAT\bin\Debug\CHAT.exe.config
+E:\Lập trình mạng\CHAT\CHAT\bin\Debug\CHAT.exe
+E:\Lập trình mạng\CHAT\CHAT\bin\Debug\CHAT.pdb
+E:\Lập trình mạng\CHAT\CHAT\obj\Debug\CHAT.csproj.AssemblyReference.cache
+E:\Lập trình mạng\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+E:\Lập trình mạng\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+E:\Lập trình mạng\CHAT\CHAT\obj\Debug\CHAT.csproj.GenerateResource.cache
+E:\Lập trình mạng\CHAT\CHAT\obj\Debug\CHAT.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\CHAT\CHAT\obj\Debug\CHAT.exe
+E:\Lập trình mạng\CHAT\CHAT\obj\Debug\CHAT.pdb

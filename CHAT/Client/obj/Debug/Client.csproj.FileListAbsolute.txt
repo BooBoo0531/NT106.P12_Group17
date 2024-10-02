@@ -1,0 +1,12 @@
+E:\Lập trình mạng\CHAT\Client\bin\Debug\Client.exe.config
+E:\Lập trình mạng\CHAT\Client\bin\Debug\Client.exe
+E:\Lập trình mạng\CHAT\Client\bin\Debug\Client.pdb
+E:\Lập trình mạng\CHAT\Client\bin\Debug\SimpleTCP.dll
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.Client.resources
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.csproj.Up2Date
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.exe
+E:\Lập trình mạng\CHAT\Client\obj\Debug\Client.pdb
