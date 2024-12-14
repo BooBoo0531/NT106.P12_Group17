@@ -20,5 +20,6 @@ Dự án được xây dựng bằng Unity, sử dụng công nghệ mạng TCP 
 
 Dự án này được phát triển bởi **Nhóm 17**, NT106.P12.
 
-- **BooBoo** : Làm gameplay, logic game, database
-- 
+- **Đỗ Hồng Ngân - BooBoo0531** : Làm gameplay, logic game, database
+- **Hồ Thị Hữu Phi - HoThiHuuPhi** : Xây dựng mô hình Server-Client
+- **Võ Thị Hồng Phúc - vthp23521226** : Xây dựng giao diện và tích hợp giao diện với logic client.
